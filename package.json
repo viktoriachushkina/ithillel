@@ -1,0 +1,14 @@
+{
+  "name": "ithillel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000i\u0000t\u0000h\u0000i\u0000l\u0000l\u0000e\u0000l\u0000 \u0000 \u0000",
+  "main": "1code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
