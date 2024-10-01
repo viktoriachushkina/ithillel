@@ -9,12 +9,3 @@ export default [
   pluginJs.configs.recommended,
   pluginReact.configs.flat.recommended,
 ];
-{
-  "extends": [
-    "eslint:recommended",
-    "plugin:prettier/recommended"
-  ],
-  "rules": {
-    "prettier/prettier": "error"
-  }
-}
