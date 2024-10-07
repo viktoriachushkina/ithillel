@@ -1,15 +1,29 @@
 {
   "name": "ithillel",
   "version": "1.0.0",
+  "type": "module",
   "description": "��#\u0000 \u0000i\u0000t\u0000h\u0000i\u0000l\u0000l\u0000e\u0000l\u0000 \u0000 \u0000",
   "main": "1code.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
-    "decimal": "^0.0.2"
-  }
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "eslint": "^9.11.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.9.0",
+    "husky": "^8.0.0",
+    "prettier": "^3.3.3"
+  },
+  "keywords": []
 }
